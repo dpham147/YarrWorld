@@ -7,6 +7,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+/**
+ * Standard Hello World application displaying "Yarr World" toast
+ * @author dpham147
+ */
 public class MainActivity extends AppCompatActivity {
 
     private Button speakButton;
