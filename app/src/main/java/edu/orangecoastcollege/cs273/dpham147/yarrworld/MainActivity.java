@@ -1,8 +1,7 @@
 package edu.orangecoastcollege.cs273.dpham147.yarrworld;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.Button;
+import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -12,5 +11,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    Button yarrButton = (Button)findViewById()
+
 }
