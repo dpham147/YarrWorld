@@ -17,7 +17,7 @@
         android:text="@string/display_text"
         android:id="@+id/welcomeTextView"
         android:layout_gravity="center_horizontal"
-        android:textSize="40dp"
+        android:textSize="40sp"
         android:textColor="@color/occ_blue"
         android:gravity="center_vertical|center_horizontal"
         android:layout_weight="1" />
