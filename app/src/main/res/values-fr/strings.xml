@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yarr World</string>
+    <string name="button_text">GRELOTTER ME BOIS</string>
+    <string name="display_text">Bienvenue sur CS273 - Mobile Application Development</string>
+    <string name="occ_logo">logo</string>
+    <string name="occ_pirate_logo">corsaire</string>
+    <string name="toast_text">Yarr Mondiale</string>
+</resources>
